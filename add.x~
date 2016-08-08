@@ -1,0 +1,16 @@
+
+struct numbers {
+
+int y;
+int z;
+};
+
+
+   program CALCULATION {
+version CALCULATION_1 {
+int ADD (numbers)=1;
+int SUB(numbers)=2;
+int MUL(numbers)=3;
+int DIV(numbers)=4;
+} = 1;
+} = 0x2fffffff;
